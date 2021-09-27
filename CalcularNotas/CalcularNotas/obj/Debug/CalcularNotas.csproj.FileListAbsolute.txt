@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.exe.config
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.exe
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.pdb
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Form1.resources
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Properties.Resources.resources
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.exe
+C:\Users\Admin\Desktop\Proyectos POO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.pdb
